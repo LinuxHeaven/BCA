@@ -24,6 +24,7 @@ void addCustomer(struct customer *p, int *an)
 	scanf("%d",&p[*an].balance);
 	printf("Enter the address : \n");
 	scanf("%s",p[*an].address);
+	fflush(stdin);
 	printf("Enter the phone number : \n");
 	scanf("%s",p[*an].phoneNumber);
 	printf("Enter the date of birth : \n");
@@ -85,6 +86,7 @@ void updateCustomer(struct customer *p, int an)
 			scanf("%d",&p[an].balance);
 			printf("Enter the address : \n");
 			scanf("%s",p[an].address);
+			fflush(stdin);
 			printf("Enter the phone number : \n");
 			scanf("%s",p[an].phoneNumber);
 			printf("Enter the date of birth : \n");
