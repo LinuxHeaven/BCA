@@ -1,0 +1,12 @@
+C:\Users\suvab\Documents\github\BCA\BCA 5th SEM\GUI with .NET\Input\bin\Debug\Input.exe.config
+C:\Users\suvab\Documents\github\BCA\BCA 5th SEM\GUI with .NET\Input\bin\Debug\Input.exe
+C:\Users\suvab\Documents\github\BCA\BCA 5th SEM\GUI with .NET\Input\bin\Debug\Input.pdb
+C:\Users\suvab\Documents\github\BCA\BCA 5th SEM\GUI with .NET\Input\bin\Debug\Input.xml
+C:\Users\suvab\Documents\github\BCA\BCA 5th SEM\GUI with .NET\Input\obj\Debug\Input.vbproj.AssemblyReference.cache
+C:\Users\suvab\Documents\github\BCA\BCA 5th SEM\GUI with .NET\Input\obj\Debug\Input.Form1.resources
+C:\Users\suvab\Documents\github\BCA\BCA 5th SEM\GUI with .NET\Input\obj\Debug\Input.Resources.resources
+C:\Users\suvab\Documents\github\BCA\BCA 5th SEM\GUI with .NET\Input\obj\Debug\Input.vbproj.GenerateResource.cache
+C:\Users\suvab\Documents\github\BCA\BCA 5th SEM\GUI with .NET\Input\obj\Debug\Input.vbproj.CoreCompileInputs.cache
+C:\Users\suvab\Documents\github\BCA\BCA 5th SEM\GUI with .NET\Input\obj\Debug\Input.exe
+C:\Users\suvab\Documents\github\BCA\BCA 5th SEM\GUI with .NET\Input\obj\Debug\Input.xml
+C:\Users\suvab\Documents\github\BCA\BCA 5th SEM\GUI with .NET\Input\obj\Debug\Input.pdb

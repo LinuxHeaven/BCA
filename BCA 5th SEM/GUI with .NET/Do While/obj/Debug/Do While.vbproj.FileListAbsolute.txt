@@ -1,0 +1,12 @@
+C:\Users\suvab\Documents\github\BCA\BCA 5th SEM\GUI with .NET\Do While\bin\Debug\Do While.exe.config
+C:\Users\suvab\Documents\github\BCA\BCA 5th SEM\GUI with .NET\Do While\bin\Debug\Do While.exe
+C:\Users\suvab\Documents\github\BCA\BCA 5th SEM\GUI with .NET\Do While\bin\Debug\Do While.pdb
+C:\Users\suvab\Documents\github\BCA\BCA 5th SEM\GUI with .NET\Do While\bin\Debug\Do While.xml
+C:\Users\suvab\Documents\github\BCA\BCA 5th SEM\GUI with .NET\Do While\obj\Debug\Do While.vbproj.AssemblyReference.cache
+C:\Users\suvab\Documents\github\BCA\BCA 5th SEM\GUI with .NET\Do While\obj\Debug\Do_While.Form1.resources
+C:\Users\suvab\Documents\github\BCA\BCA 5th SEM\GUI with .NET\Do While\obj\Debug\Do_While.Resources.resources
+C:\Users\suvab\Documents\github\BCA\BCA 5th SEM\GUI with .NET\Do While\obj\Debug\Do While.vbproj.GenerateResource.cache
+C:\Users\suvab\Documents\github\BCA\BCA 5th SEM\GUI with .NET\Do While\obj\Debug\Do While.vbproj.CoreCompileInputs.cache
+C:\Users\suvab\Documents\github\BCA\BCA 5th SEM\GUI with .NET\Do While\obj\Debug\Do While.exe
+C:\Users\suvab\Documents\github\BCA\BCA 5th SEM\GUI with .NET\Do While\obj\Debug\Do While.xml
+C:\Users\suvab\Documents\github\BCA\BCA 5th SEM\GUI with .NET\Do While\obj\Debug\Do While.pdb

@@ -1,0 +1,12 @@
+C:\Users\suvab\Documents\github\BCA\BCA 5th SEM\GUI with .NET\If_Else\bin\Debug\If_Else.exe.config
+C:\Users\suvab\Documents\github\BCA\BCA 5th SEM\GUI with .NET\If_Else\bin\Debug\If_Else.exe
+C:\Users\suvab\Documents\github\BCA\BCA 5th SEM\GUI with .NET\If_Else\bin\Debug\If_Else.pdb
+C:\Users\suvab\Documents\github\BCA\BCA 5th SEM\GUI with .NET\If_Else\bin\Debug\If_Else.xml
+C:\Users\suvab\Documents\github\BCA\BCA 5th SEM\GUI with .NET\If_Else\obj\Debug\If_Else.vbproj.AssemblyReference.cache
+C:\Users\suvab\Documents\github\BCA\BCA 5th SEM\GUI with .NET\If_Else\obj\Debug\If_Else.Form1.resources
+C:\Users\suvab\Documents\github\BCA\BCA 5th SEM\GUI with .NET\If_Else\obj\Debug\If_Else.Resources.resources
+C:\Users\suvab\Documents\github\BCA\BCA 5th SEM\GUI with .NET\If_Else\obj\Debug\If_Else.vbproj.GenerateResource.cache
+C:\Users\suvab\Documents\github\BCA\BCA 5th SEM\GUI with .NET\If_Else\obj\Debug\If_Else.vbproj.CoreCompileInputs.cache
+C:\Users\suvab\Documents\github\BCA\BCA 5th SEM\GUI with .NET\If_Else\obj\Debug\If_Else.exe
+C:\Users\suvab\Documents\github\BCA\BCA 5th SEM\GUI with .NET\If_Else\obj\Debug\If_Else.xml
+C:\Users\suvab\Documents\github\BCA\BCA 5th SEM\GUI with .NET\If_Else\obj\Debug\If_Else.pdb

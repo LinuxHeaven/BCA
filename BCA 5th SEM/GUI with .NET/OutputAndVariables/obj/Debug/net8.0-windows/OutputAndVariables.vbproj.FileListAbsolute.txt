@@ -1,0 +1,17 @@
+C:\Users\suvab\Documents\github\BCA\BCA 5th SEM\GUI with .NET\OutputAndVariables\bin\Debug\net8.0-windows\OutputAndVariables.exe
+C:\Users\suvab\Documents\github\BCA\BCA 5th SEM\GUI with .NET\OutputAndVariables\bin\Debug\net8.0-windows\OutputAndVariables.deps.json
+C:\Users\suvab\Documents\github\BCA\BCA 5th SEM\GUI with .NET\OutputAndVariables\bin\Debug\net8.0-windows\OutputAndVariables.runtimeconfig.json
+C:\Users\suvab\Documents\github\BCA\BCA 5th SEM\GUI with .NET\OutputAndVariables\bin\Debug\net8.0-windows\OutputAndVariables.dll
+C:\Users\suvab\Documents\github\BCA\BCA 5th SEM\GUI with .NET\OutputAndVariables\bin\Debug\net8.0-windows\OutputAndVariables.pdb
+C:\Users\suvab\Documents\github\BCA\BCA 5th SEM\GUI with .NET\OutputAndVariables\obj\Debug\net8.0-windows\OutputAndVariables.Form1.resources
+C:\Users\suvab\Documents\github\BCA\BCA 5th SEM\GUI with .NET\OutputAndVariables\obj\Debug\net8.0-windows\OutputAndVariables.vbproj.GenerateResource.cache
+C:\Users\suvab\Documents\github\BCA\BCA 5th SEM\GUI with .NET\OutputAndVariables\obj\Debug\net8.0-windows\OutputAndVariables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\suvab\Documents\github\BCA\BCA 5th SEM\GUI with .NET\OutputAndVariables\obj\Debug\net8.0-windows\OutputAndVariables.AssemblyInfoInputs.cache
+C:\Users\suvab\Documents\github\BCA\BCA 5th SEM\GUI with .NET\OutputAndVariables\obj\Debug\net8.0-windows\OutputAndVariables.AssemblyInfo.vb
+C:\Users\suvab\Documents\github\BCA\BCA 5th SEM\GUI with .NET\OutputAndVariables\obj\Debug\net8.0-windows\OutputAndVariables.vbproj.CoreCompileInputs.cache
+C:\Users\suvab\Documents\github\BCA\BCA 5th SEM\GUI with .NET\OutputAndVariables\obj\Debug\net8.0-windows\OutputAndVariables.sourcelink.json
+C:\Users\suvab\Documents\github\BCA\BCA 5th SEM\GUI with .NET\OutputAndVariables\obj\Debug\net8.0-windows\OutputAndVariables.dll
+C:\Users\suvab\Documents\github\BCA\BCA 5th SEM\GUI with .NET\OutputAndVariables\obj\Debug\net8.0-windows\refint\OutputAndVariables.dll
+C:\Users\suvab\Documents\github\BCA\BCA 5th SEM\GUI with .NET\OutputAndVariables\obj\Debug\net8.0-windows\OutputAndVariables.pdb
+C:\Users\suvab\Documents\github\BCA\BCA 5th SEM\GUI with .NET\OutputAndVariables\obj\Debug\net8.0-windows\OutputAndVariables.genruntimeconfig.cache
+C:\Users\suvab\Documents\github\BCA\BCA 5th SEM\GUI with .NET\OutputAndVariables\obj\Debug\net8.0-windows\ref\OutputAndVariables.dll

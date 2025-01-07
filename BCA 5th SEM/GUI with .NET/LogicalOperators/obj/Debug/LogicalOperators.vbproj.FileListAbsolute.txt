@@ -1,0 +1,12 @@
+C:\Users\suvab\Documents\github\BCA\BCA 5th SEM\GUI with .NET\LogicalOperators\bin\Debug\LogicalOperators.exe.config
+C:\Users\suvab\Documents\github\BCA\BCA 5th SEM\GUI with .NET\LogicalOperators\bin\Debug\LogicalOperators.exe
+C:\Users\suvab\Documents\github\BCA\BCA 5th SEM\GUI with .NET\LogicalOperators\bin\Debug\LogicalOperators.pdb
+C:\Users\suvab\Documents\github\BCA\BCA 5th SEM\GUI with .NET\LogicalOperators\bin\Debug\LogicalOperators.xml
+C:\Users\suvab\Documents\github\BCA\BCA 5th SEM\GUI with .NET\LogicalOperators\obj\Debug\LogicalOperators.vbproj.AssemblyReference.cache
+C:\Users\suvab\Documents\github\BCA\BCA 5th SEM\GUI with .NET\LogicalOperators\obj\Debug\LogicalOperators.Form1.resources
+C:\Users\suvab\Documents\github\BCA\BCA 5th SEM\GUI with .NET\LogicalOperators\obj\Debug\LogicalOperators.Resources.resources
+C:\Users\suvab\Documents\github\BCA\BCA 5th SEM\GUI with .NET\LogicalOperators\obj\Debug\LogicalOperators.vbproj.GenerateResource.cache
+C:\Users\suvab\Documents\github\BCA\BCA 5th SEM\GUI with .NET\LogicalOperators\obj\Debug\LogicalOperators.vbproj.CoreCompileInputs.cache
+C:\Users\suvab\Documents\github\BCA\BCA 5th SEM\GUI with .NET\LogicalOperators\obj\Debug\LogicalOperators.exe
+C:\Users\suvab\Documents\github\BCA\BCA 5th SEM\GUI with .NET\LogicalOperators\obj\Debug\LogicalOperators.xml
+C:\Users\suvab\Documents\github\BCA\BCA 5th SEM\GUI with .NET\LogicalOperators\obj\Debug\LogicalOperators.pdb

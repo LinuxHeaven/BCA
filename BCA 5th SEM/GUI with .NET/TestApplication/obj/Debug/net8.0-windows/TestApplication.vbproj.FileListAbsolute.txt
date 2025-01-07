@@ -1,0 +1,17 @@
+C:\Users\suvab\Documents\github\BCA\BCA 5th SEM\GUI with .NET\TestApplication\bin\Debug\net8.0-windows\TestApplication.exe
+C:\Users\suvab\Documents\github\BCA\BCA 5th SEM\GUI with .NET\TestApplication\bin\Debug\net8.0-windows\TestApplication.deps.json
+C:\Users\suvab\Documents\github\BCA\BCA 5th SEM\GUI with .NET\TestApplication\bin\Debug\net8.0-windows\TestApplication.runtimeconfig.json
+C:\Users\suvab\Documents\github\BCA\BCA 5th SEM\GUI with .NET\TestApplication\bin\Debug\net8.0-windows\TestApplication.dll
+C:\Users\suvab\Documents\github\BCA\BCA 5th SEM\GUI with .NET\TestApplication\bin\Debug\net8.0-windows\TestApplication.pdb
+C:\Users\suvab\Documents\github\BCA\BCA 5th SEM\GUI with .NET\TestApplication\obj\Debug\net8.0-windows\TestApplication.Form1.resources
+C:\Users\suvab\Documents\github\BCA\BCA 5th SEM\GUI with .NET\TestApplication\obj\Debug\net8.0-windows\TestApplication.vbproj.GenerateResource.cache
+C:\Users\suvab\Documents\github\BCA\BCA 5th SEM\GUI with .NET\TestApplication\obj\Debug\net8.0-windows\TestApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\suvab\Documents\github\BCA\BCA 5th SEM\GUI with .NET\TestApplication\obj\Debug\net8.0-windows\TestApplication.AssemblyInfoInputs.cache
+C:\Users\suvab\Documents\github\BCA\BCA 5th SEM\GUI with .NET\TestApplication\obj\Debug\net8.0-windows\TestApplication.AssemblyInfo.vb
+C:\Users\suvab\Documents\github\BCA\BCA 5th SEM\GUI with .NET\TestApplication\obj\Debug\net8.0-windows\TestApplication.vbproj.CoreCompileInputs.cache
+C:\Users\suvab\Documents\github\BCA\BCA 5th SEM\GUI with .NET\TestApplication\obj\Debug\net8.0-windows\TestApplication.sourcelink.json
+C:\Users\suvab\Documents\github\BCA\BCA 5th SEM\GUI with .NET\TestApplication\obj\Debug\net8.0-windows\TestApplication.dll
+C:\Users\suvab\Documents\github\BCA\BCA 5th SEM\GUI with .NET\TestApplication\obj\Debug\net8.0-windows\refint\TestApplication.dll
+C:\Users\suvab\Documents\github\BCA\BCA 5th SEM\GUI with .NET\TestApplication\obj\Debug\net8.0-windows\TestApplication.pdb
+C:\Users\suvab\Documents\github\BCA\BCA 5th SEM\GUI with .NET\TestApplication\obj\Debug\net8.0-windows\TestApplication.genruntimeconfig.cache
+C:\Users\suvab\Documents\github\BCA\BCA 5th SEM\GUI with .NET\TestApplication\obj\Debug\net8.0-windows\ref\TestApplication.dll

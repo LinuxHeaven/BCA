@@ -1,0 +1,12 @@
+C:\Users\suvab\Documents\github\BCA\BCA 5th SEM\GUI with .NET\Select Case\bin\Debug\Select Case.exe.config
+C:\Users\suvab\Documents\github\BCA\BCA 5th SEM\GUI with .NET\Select Case\bin\Debug\Select Case.exe
+C:\Users\suvab\Documents\github\BCA\BCA 5th SEM\GUI with .NET\Select Case\bin\Debug\Select Case.pdb
+C:\Users\suvab\Documents\github\BCA\BCA 5th SEM\GUI with .NET\Select Case\bin\Debug\Select Case.xml
+C:\Users\suvab\Documents\github\BCA\BCA 5th SEM\GUI with .NET\Select Case\obj\Debug\Select Case.vbproj.AssemblyReference.cache
+C:\Users\suvab\Documents\github\BCA\BCA 5th SEM\GUI with .NET\Select Case\obj\Debug\Select_Case.Form1.resources
+C:\Users\suvab\Documents\github\BCA\BCA 5th SEM\GUI with .NET\Select Case\obj\Debug\Select_Case.Resources.resources
+C:\Users\suvab\Documents\github\BCA\BCA 5th SEM\GUI with .NET\Select Case\obj\Debug\Select Case.vbproj.GenerateResource.cache
+C:\Users\suvab\Documents\github\BCA\BCA 5th SEM\GUI with .NET\Select Case\obj\Debug\Select Case.vbproj.CoreCompileInputs.cache
+C:\Users\suvab\Documents\github\BCA\BCA 5th SEM\GUI with .NET\Select Case\obj\Debug\Select Case.exe
+C:\Users\suvab\Documents\github\BCA\BCA 5th SEM\GUI with .NET\Select Case\obj\Debug\Select Case.xml
+C:\Users\suvab\Documents\github\BCA\BCA 5th SEM\GUI with .NET\Select Case\obj\Debug\Select Case.pdb

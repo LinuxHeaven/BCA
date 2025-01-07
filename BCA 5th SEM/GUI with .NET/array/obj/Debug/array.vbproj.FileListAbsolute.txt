@@ -1,0 +1,12 @@
+C:\Users\suvab\Documents\github\BCA\BCA 5th SEM\GUI with .NET\array\obj\Debug\array.vbproj.AssemblyReference.cache
+C:\Users\suvab\Documents\github\BCA\BCA 5th SEM\GUI with .NET\array\obj\Debug\array.Form1.resources
+C:\Users\suvab\Documents\github\BCA\BCA 5th SEM\GUI with .NET\array\obj\Debug\array.Resources.resources
+C:\Users\suvab\Documents\github\BCA\BCA 5th SEM\GUI with .NET\array\obj\Debug\array.vbproj.GenerateResource.cache
+C:\Users\suvab\Documents\github\BCA\BCA 5th SEM\GUI with .NET\array\obj\Debug\array.vbproj.CoreCompileInputs.cache
+C:\Users\suvab\Documents\github\BCA\BCA 5th SEM\GUI with .NET\array\bin\Debug\array.exe.config
+C:\Users\suvab\Documents\github\BCA\BCA 5th SEM\GUI with .NET\array\bin\Debug\array.exe
+C:\Users\suvab\Documents\github\BCA\BCA 5th SEM\GUI with .NET\array\bin\Debug\array.pdb
+C:\Users\suvab\Documents\github\BCA\BCA 5th SEM\GUI with .NET\array\bin\Debug\array.xml
+C:\Users\suvab\Documents\github\BCA\BCA 5th SEM\GUI with .NET\array\obj\Debug\array.exe
+C:\Users\suvab\Documents\github\BCA\BCA 5th SEM\GUI with .NET\array\obj\Debug\array.xml
+C:\Users\suvab\Documents\github\BCA\BCA 5th SEM\GUI with .NET\array\obj\Debug\array.pdb
